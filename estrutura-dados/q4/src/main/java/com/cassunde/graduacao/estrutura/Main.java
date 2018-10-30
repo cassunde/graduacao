@@ -4,6 +4,7 @@ public class Main {
 	
 	public static void main(String args[]){
 	
+		//Algorítmo Bubble Sort
 		int[] numbers = {1,234,21,34,21,345,56,6};
 		
 		for( int j = 0; j <= ( numbers.length -1 ); j++ ) {
@@ -28,8 +29,8 @@ public class Main {
 			System.out.println(numbers[i]);
 		}
 		
-		System.out.println("=====================================");
-		
+		//Pesquisa binária
+		System.out.println("=====================================");		
 		int inicio  = 0;
 		int fim     = numbers.length;
 		int posicao = 0;
