@@ -1,3 +1,3 @@
 # Estrutura de dados
 
-Repositório com exemplo de algoritimos sobre ordenação e buscas de vetores
+Repositório com exemplo de algoritimos de ordenação e buscas em vetores
