@@ -10,11 +10,14 @@ int main(int argc, char** argv) {
 
 	int a;
 	int b;
+	
+	// criando ponteiros
 	int *pa, *pb;
 
 	cin >> a;	
 	cin >> b;	
 
+	//atribuindo os endereços de memórias nos ponteiros criados
 	pa = &b;
 	pb = &a;	
 
